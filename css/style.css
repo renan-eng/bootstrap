@@ -1,9 +1,27 @@
-
-.quem-somos{
-    background-color: rgb(202, 202, 240);
+body {
+  font: 20px Arial, sans-serif;
+}
+/* .nav.navbar-nav.navbar-right li a {
+  color: rgb(0, 136, 255);
+} */
+.color-me {
+  color: aliceblue;
+}
+.quem-somos {
+  background-color: rgb(51, 51, 51);
+  color: aliceblue;
 }
 
-.margin{
-    padding-top: 50px;
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+.parceiros {
+  background-color: rgb(110, 110, 110);
+  color: aliceblue;
 }
 
+.servicos {
+  background-color: rgb(51, 51, 51);
+  color: aliceblue;
+}
